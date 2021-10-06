@@ -24,8 +24,7 @@
     <FrameLayout
         android:id="@+id/search_bar_container"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:elevation="4dp">
+        android:layout_height="wrap_content">
         <androidx.cardview.widget.CardView
             android:id="@+id/search_bar"
             android:layout_width="match_parent"
